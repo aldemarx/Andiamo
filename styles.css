@@ -413,3 +413,10 @@ header {
     width: 30px;
     height: 30px;
 }
+.autor {
+    text-align: center;
+    padding: 12px;
+    font-weight: lighter;
+    background-color: rgb(49, 49, 49);
+    color: #ffffff;
+}
